@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Skip Pickup Animations</name>
+    <directory>skip pickup animations</directory>
+    <id>3823649361</id>
+    <description>This is a companion mod to [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3681716665]Skip Giantbook Animations[/url].
+
+It lets you press the drop button to skip the pickup or use item animations (hands up). These animations play when the player picks up a collectible/trinket/card/pill/etc. You're generally vulnerable when this happens (can't shoot). This lets you get back into combat as soon as possible.
+
+Items like Bob's Rotten Head or Red Candle are not affected.
+
+REPENTOGON is required.</description>
+    <version>1.3</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Tweaks"/>
+</metadata>
